@@ -1,0 +1,10 @@
+html, body {
+    background: #111 !important;
+    color: #eee !important;
+}
+img, video {
+    filter: brightness(0.8) contrast(1.2);
+}
+a {
+    color: #4aa3ff !important;
+}

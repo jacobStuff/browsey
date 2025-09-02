@@ -1,0 +1,3 @@
+([('Browsey',
+   '/Users/jacob.ferrari/stuff/coding stuff/web browser/dist/Browsey',
+   'EXECUTABLE')],)
